@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lingmHVAC
 - 👀 I’m interested in Computational Fluid Dynamics,Thermal-fluids systems and Green Buildings.
 - 🌱 I’m currently earning my bachelor's degree.
-- 💞️ I’m looking to collaborate on CFD theory study and receiving graduate level Mechanical Engineering education.
+- 💞️ I’m looking to collaborate on CFD theory study and receive graduate level Mechanical Engineering education.
 - 📫 Thank you.
 
 <!---
